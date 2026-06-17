@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+release_notes_cache.json
+.idea/
+.vscode/
+scratch/
+check_feed.py
+print_content.py
